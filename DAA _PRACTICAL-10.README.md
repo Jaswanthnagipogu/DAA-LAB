@@ -1,0 +1,13 @@
+Practical -10: Implement Kruskal’s algorithm
+
+Summary
+
+Kruskal's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a weighted graph.
+In this practical, the edges were sorted by weight using edges.sort(), and the smallest edges were selected while avoiding cycles.
+The algorithm continued until all vertices were connected with the minimum total cost.
+
+Conclusion
+
+In this practical, Kruskal's Algorithm was successfully implemented using Python.
+The algorithm correctly found the Minimum Spanning Tree by selecting the smallest edges without creating cycles. 
+This practical helped in understanding how greedy algorithms work and how they are used to connect all vertices with the minimum possible cost.
